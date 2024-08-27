@@ -1,14 +1,26 @@
 # Welcome to ArtistQuest!
 
+### Node.js
+- use `v20.11.0` node version
+
+## Install NPM packages
+
+```sh
+npm i
+```
+
 
 ## Development
 
-use v20.11.0 node version
-
 Run the dev server:
 
-```
+```sh
 npm run dev
+```
+
+Run test:
+```sh 
+npm run test
 ```
 
 ## Deployment
